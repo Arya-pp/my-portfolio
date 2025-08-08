@@ -8,7 +8,7 @@ const skills = [
   },
   {
     title: 'Web / Dev Tools',
-    list: ['React.js','Next.js', 'Node.js', 'Express.js', 'MongoDB', 'Firebase', 'Tailwind CSS','Git'],
+    list: ['React.js','Next.js', 'Node.js', 'Express.js', 'MongoDB', 'Firebase', 'Tailwind CSS','RESTful APIs ','Git'],
   },
   // {
   //   title: 'IoT / Hardware',
