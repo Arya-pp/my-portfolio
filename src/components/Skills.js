@@ -8,12 +8,12 @@ const skills = [
   },
   {
     title: 'Web / Dev Tools',
-    list: ['React.js','Next.js','Node.js', 'Express.js', 'MongoDB', 'Firebase', 'Tailwind CSS','Git'],
+    list: ['React.js','Next.js', 'Node.js', 'Express.js', 'MongoDB', 'Firebase', 'Tailwind CSS','Git'],
   },
-  {
-    title: 'IoT / Hardware',
-    list: ['Arduino', 'NodeMCU', 'Sensors'],
-  },
+  // {
+  //   title: 'IoT / Hardware',
+  //   list: ['Arduino', 'NodeMCU', 'Sensors'],
+  // },
   {
     title: 'Design Tools',
     list: ['Photoshop', 'Canva', 'Figma'],
