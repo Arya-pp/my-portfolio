@@ -7,7 +7,7 @@ const projects = [
     title: 'Movie Ticket Booking System',
     description: 'Full-stack app for booking movie tickets, with login, seat selection, and payment features.',
     tech: ['MongoDB','Express','React', 'Node.js'],
-    demoLink: 'https://movieticket-booking-project.vercel.app/',
+    demoLink: 'https://movieticket-booking-project-9uonyjyzk-aryapps-projects.vercel.app/',
     githubLink: 'https://github.com/Arya-pp/Movieticket_booking-project',
     gradient: 'from-yellow-400 to-orange-500',
     initial: 'M',
@@ -16,12 +16,12 @@ const projects = [
     title: 'Portfolio Website',
     description: 'Personal portfolio built with Next.js and Tailwind CSS',
     tech: ['Next.js', 'Tailwind CSS'],
-    demoLink: 'https://my-portfolio-aryapps-projects.vercel.app/',
+    demoLink: 'https://my-portfolio-alpha-gray-ql8hdzwj9t.vercel.app/',
     githubLink: 'https://github.com/Arya-pp/my-portfolio',
     gradient: 'from-pink-500 to-purple-500',
     initial: 'P',
   },
-  { 
+  {
     title: 'IoT Water Level Monitoring',
     description: 'Built a real-time residential water monitoring solution using pressure sensors and NodeMCU, with data logging and live alerts via Firebase.',
     tech: ['NodeMCU', 'Firebase', 'JavaScript'],
