@@ -35,5 +35,7 @@ Deployed on [Vercel](https://vercel.com/) — free and easy hosting for Next.js 
 
 ## 📫 Contact
 
+-Email: aryapp2019@gmail.com
+
 - GitHub: [@Arya-pp](https://github.com/Arya-pp)
 - LinkedIn: [linkedin.com/in/arya-pp](https://linkedin.com/in/arya-pp)
