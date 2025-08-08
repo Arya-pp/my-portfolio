@@ -19,11 +19,11 @@ This is my personal portfolio website built using **Next.js** and **Tailwind CSS
 
 ## 🔗 Live Demo
 
-[Visit My Portfolio](https://your-vercel-domain.vercel.app)
+[Visit My Portfolio](https://my-portfolio-aryapps-projects.vercel.app)
 
 ## 📂 Resume
 
-You can view my resume from the **Home** section or directly [click here](./public/ARYA_PP_RESUME.pdf).
+You can view my resume from the **Home** section or directly [click here](<./public/RESUME_ARYA_PP(2).pdf>).
 
 ## ✨ Deployment
 
@@ -35,6 +35,5 @@ Deployed on [Vercel](https://vercel.com/) — free and easy hosting for Next.js 
 
 ## 📫 Contact
 
-- Email: hello@arya.dev
 - GitHub: [@Arya-pp](https://github.com/Arya-pp)
 - LinkedIn: [linkedin.com/in/arya-pp](https://linkedin.com/in/arya-pp)
