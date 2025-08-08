@@ -16,12 +16,12 @@ const projects = [
     title: 'Portfolio Website',
     description: 'Personal portfolio built with Next.js and Tailwind CSS',
     tech: ['Next.js', 'Tailwind CSS'],
-    demoLink: '#',
-    githubLink: '#',
+    demoLink: 'https://my-portfolio-aryapps-projects.vercel.app/',
+    githubLink: 'https://github.com/Arya-pp/my-portfolio',
     gradient: 'from-pink-500 to-purple-500',
     initial: 'P',
   },
-  {
+  { 
     title: 'IoT Water Level Monitoring',
     description: 'Built a real-time residential water monitoring solution using pressure sensors and NodeMCU, with data logging and live alerts via Firebase.',
     tech: ['NodeMCU', 'Firebase', 'JavaScript'],
