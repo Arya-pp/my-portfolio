@@ -25,7 +25,7 @@ export default function Herosection()
                   View Projects
                 </a>
                 <a
-                  href="/RESUME_ARYA_PP (2).pdf"
+                  href="/RESUME_ARYA_PP(2).pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="border-2 border-purple-accent hover:bg-purple-accent px-8 py-4 rounded-full font-semibold transition-all transform hover:scale-105"
